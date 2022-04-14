@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="global_margin_normal">32dp</dimen>
+    <dimen name="global_margin_normal_half">16dp</dimen>
+    <dimen name="global_margin_normal_double_half">8dp</dimen>
+</resources>
